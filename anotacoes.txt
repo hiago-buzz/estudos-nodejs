@@ -1,0 +1,13 @@
+Para iniciar o node precisamos do comando `npm init`, após isso é só configurar a descrição do packetjson. ou usar o `-y` 
+para iniciar no padrão.
+
+-----------------------------------
+
+para rodar o node no terminal é só inserir o comando `node` + `nome do arquivo`ou usar o `.` para procurar o main do packge,json
+
+--------------------------------
+
+É possível rodar um script alterado no terminad. Passando uma "key": e um "comando", no campo script do package.json e 
+depois executalo com o comando `npm run` + key
+
+--------------------------
